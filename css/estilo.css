@@ -1,0 +1,152 @@
+.slider .slides li .caption {
+	top: 40%;
+
+}
+
+.margen-texto-slide1 {
+	margin-left: 15%;
+	padding-bottom: 1%;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 40% !important;
+
+	}
+
+.margen-texto-slide2 {
+	margin-left: 1%;
+	padding-left: 3%;
+	padding-bottom: 1%;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 30% !important;
+	}
+
+.margen-texto-slide3 {
+	margin-left: 33%;
+	padding-right: 3%;
+	padding-bottom: 1%;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 35% !important;
+	}
+
+@media only screen and (max-width: 870px) {
+	.margen-texto-slide1 {
+		padding-bottom: 1%;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 50% !important;
+		margin-left: 10%;
+		
+	}
+
+	.margen-texto-slide2 {
+		padding-left: 3%;
+		padding-bottom: 1%;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 40% !important;
+		}
+	
+	.margen-texto-slide3 {
+		margin-left: 32%;
+		padding-right: 3%;
+		padding-bottom: 1%;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 50% !important;
+		}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+	.margen-texto-slide1 {
+		padding-bottom: 1%;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 70% !important;
+		margin-left: -1%;
+	}
+
+	.margen-texto-slide2 {
+		margin-left: -3%;
+		padding-left: 3%;
+		padding-bottom: 1%;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 60% !important;
+		}
+
+}
+
+.slider .fullscreen {
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+}
+
+.espacamentoSuperior {
+	margin-top: 100vh;
+}
+
+.espacamentoSuperior h2 {
+	font-size: 2.5rem;
+
+}
+
+.texto-justificado {
+	margin-top: -5%;
+	margin-bottom: 20px;
+}
+
+.servicos {
+	padding-top: 20px;
+	padding-bottom: 80px;	
+}
+
+.equipe {
+	padding-top: 80px;
+	padding-bottom: 50px;	
+}
+
+.card .card-title {
+	background-color: rgba(0, 0, 0, 0.5);
+	font-weight: 300;
+
+}
+
+.card .card-action a {
+	color: #26a69a;
+
+}
+
+.localizacao {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+i.medium {
+	font-size: 3rem;
+}
+
+.margin-endereco { 
+	margin-top: 10px;
+	 } 
+
+.fale-conosco {
+	margin-top: 30px;
+	padding-top: 70px;
+	padding-bottom: 20px;
+
+}
+
+footer.page-footer {
+	margin-top: 0px;
+	background-color: #263238;
+}
+
+footer.page-footer .footer-copyright {
+	border-top: solid 1px black;
+
+}
+
+.servicos, .equipe, .localizacao, .fale-conosco, .rodape {
+	opacity: 0;
+}
