@@ -3,8 +3,9 @@
 #### Ferramentas Utilizadas:
 
 * Materialize (https://materializecss.com/) | *Framework*
-* Font Awesome (https://fontawesome.com/) | *Conjunto de ícones e kit de ferramentas*
 <br>
 
 #### Versão Desktop 
 ***
+
+![thumbnail do site](https://raw.githubusercontent.com/RobsonVinicius/site-materialize-framework/master/thumbnail.png)
