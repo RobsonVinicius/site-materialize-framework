@@ -2,6 +2,8 @@
 
 Site criado com Materialize CSS com objetivo de estudo
 
+<br>
+
 ## Ferramentas Utilizadas:
 
 * Materialize (https://materializecss.com/) | *Framework*
