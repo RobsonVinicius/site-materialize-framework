@@ -1,11 +1,13 @@
-### Site criado utilizando o Materialize
+# Site criado utilizando o Materialize
 
-#### Ferramentas Utilizadas:
+Site criado com Materialize CSS com objetivo de estudo
+
+## Ferramentas Utilizadas:
 
 * Materialize (https://materializecss.com/) | *Framework*
 <br>
 
-#### Versão Desktop 
-***
+### Versão Desktop 
+<br>
 
 ![thumbnail do site](https://raw.githubusercontent.com/RobsonVinicius/site-materialize-framework/master/thumbnail.png)
